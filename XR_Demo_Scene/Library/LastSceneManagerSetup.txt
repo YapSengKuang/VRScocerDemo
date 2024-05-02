@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HTC.UnityPlugin/ViveInputUtility/Examples/1.UGUI/UGUI.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
